@@ -1,7 +1,3 @@
--- Vision Hub/main.lua
--- sexy script by github.com/orialdev
--- please give credit if you use anything from my code
-
 local CoreGui = game:GetService("CoreGui")
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
